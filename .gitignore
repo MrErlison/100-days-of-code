@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MacOS
+**/.DS_Store
+**/desktop.ini
+
+# Vim ignore
+# source: https://github.com/github/gitignore/blob/master/Global/Vim.gitignore
+
+# swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
