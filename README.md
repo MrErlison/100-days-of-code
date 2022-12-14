@@ -10,7 +10,7 @@
 - [x] Day 03 - Control Flow and Logical Operators
 - [x] Day 04 - Randomisation and Python Lists
 - [x] Day 05 - Python Loops
-- [ ] Day 06 - Python Functions & Karel
+- [x] Day 06 - Python Functions & Karel
 - [ ] Day 07 - Hangman
 - [ ] Day 08 - Function Parameters & Caesar Cipher
 - [ ] Day 09 - Dictionaries, Nesting and the Secret Auction
