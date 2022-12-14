@@ -47,8 +47,9 @@ if compute_chose == user_chose:
 # rock     0 win 2 scissors
 # paper    1 win 0 rock
 # scissors 2 win 1 paper
-result = str(user_chose) + str(compute_chose)
-if result == "02" or result == "10" or result == "21":
-    print("You win!")
+if options[compute_chose - 1] == options[user_chose]:
+    print("Computer win!")
 else:
-    print("You lose!")
+    print("You win!")
+
+exit(0)
