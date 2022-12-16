@@ -11,8 +11,8 @@
 - [x] Day 04 - Randomisation and Python Lists
 - [x] Day 05 - Python Loops
 - [x] Day 06 - Python Functions & Karel
-- [ ] Day 07 - Hangman
-- [ ] Day 08 - Function Parameters & Caesar Cipher
+- [x] Day 07 - Hangman
+- [x] Day 08 - Function Parameters & Caesar Cipher
 - [ ] Day 09 - Dictionaries, Nesting and the Secret Auction
 - [ ] Day 10 - Functions with Outputs
 - [ ] Day 11 - The Blackjack Capstone Project
