@@ -13,7 +13,7 @@
 - [x] Day 06 - Python Functions & Karel
 - [x] Day 07 - Hangman
 - [x] Day 08 - Function Parameters & Caesar Cipher
-- [ ] Day 09 - Dictionaries, Nesting and the Secret Auction
+- [x] Day 09 - Dictionaries, Nesting and the Secret Auction
 - [ ] Day 10 - Functions with Outputs
 - [ ] Day 11 - The Blackjack Capstone Project
 - [ ] Day 12 - Scope & Number Guessing Game
