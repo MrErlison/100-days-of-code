@@ -5,8 +5,7 @@ next_bid = "yes"
 
 while next_bid == "yes":
     name = input("What is your name?: ")
-    price = float(input("What is your bid?: $"))
-    bids[name] = price
+    bids[name] = float(input("What is your bid?: $"))
     next_bid = input("\nAre there any other bidders? Type 'yes or 'no'.\n").lower()
     os.system('clear')
 
