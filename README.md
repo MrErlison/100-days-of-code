@@ -14,7 +14,7 @@
 - [x] Day 07 - Hangman
 - [x] Day 08 - Function Parameters & Caesar Cipher
 - [x] Day 09 - Dictionaries, Nesting and the Secret Auction
-- [ ] Day 10 - Functions with Outputs
+- [x] Day 10 - Functions with Outputs
 - [ ] Day 11 - The Blackjack Capstone Project
 - [ ] Day 12 - Scope & Number Guessing Game
 - [ ] Day 13 - Debugging: How to Find and Fix Errors in your Code
