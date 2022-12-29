@@ -22,6 +22,6 @@ def add_new_country(country, visits, cities):
         "cities": cities
     })
 
-#🚨 Do not change the code below
-add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
-print(travel_log)
+if __name__ == "__main__":
+  add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
+  print(travel_log)

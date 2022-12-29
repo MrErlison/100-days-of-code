@@ -43,4 +43,5 @@ def calculator():
     
     number_1 = answer
 
-calculator()
+if __name__ == "__main__":
+  calculator()

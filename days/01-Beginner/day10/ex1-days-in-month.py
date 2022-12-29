@@ -11,7 +11,7 @@ def days_in_month(year, month):
 
     return month_days[month - 1]
 
-def main():
+if __name__ == "__main__":
     year = int(input("Enter a year: "))
     month = int(input("Enter a month: "))
     if (month < 1 or month > 12) or year < 0:
@@ -19,5 +19,3 @@ def main():
         exit(1)
 
     print(days_in_month(year, month))
-
-main()
