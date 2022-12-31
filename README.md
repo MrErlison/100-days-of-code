@@ -17,8 +17,8 @@
 - [x] Day 10 - Functions with Outputs
 - [x] Day 11 - The Blackjack Capstone Project
 - [x] Day 12 - Scope & Number Guessing Game
-- [ ] Day 13 - Debugging: How to Find and Fix Errors in your Code
-- [ ] Day 14 - Higher Lower Game Project
+- [x] Day 13 - Debugging: How to Find and Fix Errors in your Code
+- [x] Day 14 - Higher Lower Game Project
 
 ## Intermediate
 - [ ] Day 15 - Local Development Environment Setup & the Coffee Machine
