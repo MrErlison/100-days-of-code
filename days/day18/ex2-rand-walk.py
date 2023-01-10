@@ -5,13 +5,15 @@ which is very interesting as each run will give different output.
 import turtle as t
 import random
 
+COLORMODE = 255
+
 def random_color():
     """
     Generates a random RGB color.
     """
-    r = random.randint(0, 255)
-    g = random.randint(0, 255)
-    b = random.randint(0, 255)
+    r = random.randint(0, COLORMODE)
+    g = random.randint(0, COLORMODE)
+    b = random.randint(0, COLORMODE)
     return (r,g,b)
 
 def walk(size, total):
@@ -20,7 +22,7 @@ def walk(size, total):
     draw lines, with the given `size` and `total` number of lines.
     """
     obj = t.Turtle()
-    t.colormode(255)
+    t.colormode(COLORMODE)
 
     directions = [d for d in range(0, 360, 45)]
     for _ in range(total):
