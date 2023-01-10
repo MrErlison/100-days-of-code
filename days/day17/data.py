@@ -80,14 +80,14 @@ question_data = [
         "category": "Entertainment: Video Games",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "The song &quot;Megalovania&quot; by Toby Fox made its third appearence in the 2015 RPG &quot;Undertale&quot;.",
+        "question": "The song 'Megalovania' by Toby Fox made its third appearence in the 2015 RPG 'Undertale'.",
         "correct_answer": "True",
     },
     {
         "category": "Entertainment: Film",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.",
+        "question": "The movie 'The Nightmare before Christmas' was all done with physical objects.",
         "correct_answer": "True",
     },
     {
@@ -108,7 +108,7 @@ question_data = [
         "category": "Politics",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "The S in Harry S. Truman stands for &quot;Samuel&quot;.",
+        "question": "The S in Harry S. Truman stands for 'Samuel'.",
         "correct_answer": "False",
     },
     {
@@ -122,7 +122,7 @@ question_data = [
         "category": "Science: Mathematics",
         "type": "boolean",
         "difficulty": "hard",
-        "question": "The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;",
+        "question": "The binary number '101001101' is equivalent to the Decimal number '334'",
         "correct_answer": "False",
     },
     {
@@ -171,14 +171,14 @@ question_data = [
         "category": "Entertainment: Board Games",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.",
+        "question": "The card game 'Munchkin' won the 2001 Origins Award for Best Traditional Card Game.",
         "correct_answer": "True",
     },
     {
         "category": "Science & Nature",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "Scientists accidentally killed the once known world&#039;s oldest living creature, a mollusc, known to be aged as 507 years old.",
+        "question": "Scientists accidentally killed the once known world's oldest living creature, a mollusc, known to be aged as 507 years old.",
         "correct_answer": "True",
     },
     {
@@ -206,7 +206,7 @@ question_data = [
         "category": "Entertainment: Books",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.",
+        "question": "Stephen Chbosky wrote the book 'The Perks of Being A Wallflower'.",
         "correct_answer": "True",
     },
     {
@@ -220,7 +220,7 @@ question_data = [
         "category": "Entertainment: Video Games",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+        "question": "In the game 'Subnautica', a 'Cave Crawler' will attack you.",
         "correct_answer": "True",
     },
     {
@@ -262,7 +262,7 @@ question_data = [
         "category": "Entertainment: Music",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "Stevie Wonder&#039;s real name is Stevland Hardaway Morris.",
+        "question": "Stevie Wonder's real name is Stevland Hardaway Morris.",
         "correct_answer": "True",
     },
     {
@@ -276,7 +276,7 @@ question_data = [
         "category": "Entertainment: Film",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+        "question": "'Minions' was released on the June 10th, 2015.",
         "correct_answer": "False",
     },
     {
@@ -297,7 +297,7 @@ question_data = [
         "category": "Entertainment: Video Games",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.",
+        "question": "In the video game 'Transistor', 'Red' is the name of the main character.",
         "correct_answer": "True",
     },
     {
@@ -311,35 +311,35 @@ question_data = [
         "category": "Entertainment: Japanese Anime & Manga",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "In &quot;JoJo&#039;s Bizarre Adventure&quot;, Father Enrico Pucchi uses a total of 3 stands in Part 6: Stone Ocean.",
+        "question": "In 'JoJo's Bizarre Adventure', Father Enrico Pucchi uses a total of 3 stands in Part 6: Stone Ocean.",
         "correct_answer": "True",
     },
     {
         "category": "History",
         "type": "boolean",
         "difficulty": "hard",
-        "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s.",
+        "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland's.",
         "correct_answer": "True",
     },
     {
         "category": "Science: Mathematics",
         "type": "boolean",
         "difficulty": "hard",
-        "question": "L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
+        "question": "L'Hôpital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.",
         "correct_answer": "False",
     },
     {
         "category": "Entertainment: Video Games",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "In &quot;Call Of Duty: World At War&quot;, the first appearance of the &quot;PPSH-41&quot; in &quot;Zombies&quot; was in the map &quot;Der Riese&quot;.",
+        "question": "In 'Call Of Duty: World At War', the first appearance of the 'PPSH-41' in 'Zombies' was in the map 'Der Riese'.",
         "correct_answer": "False",
     },
     {
         "category": "Entertainment: Japanese Anime & Manga",
         "type": "boolean",
         "difficulty": "medium",
-        "question": "In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.",
+        "question": "In 'To Love-Ru: Darkness', Yami reveals her real name is Eve.",
         "correct_answer": "True",
     },
     {
@@ -360,7 +360,7 @@ question_data = [
         "category": "General Knowledge",
         "type": "boolean",
         "difficulty": "hard",
-        "question": "Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",
+        "question": "Spoon theory is a theory, utilizing 'Spoons' as a metaphor for energy they can use in a day.",
         "correct_answer": "True",
     },
     {
@@ -416,7 +416,7 @@ question_data = [
         "category": "Entertainment: Video Games",
         "type": "boolean",
         "difficulty": "easy",
-        "question": "In the video game &quot;Splatoon&quot;, the playable characters were originally going to be rabbits instead of squids.",
+        "question": "In the video game 'Splatoon', the playable characters were originally going to be rabbits instead of squids.",
         "correct_answer": "True",
     }
 ]
