@@ -18,13 +18,15 @@ attribute is a list of Question
 from question_model import Question
 from data import question_data
 from quiz_brain import QuizBrain
+from random import choices
 
-def play_game():
+def play_game(max_questions):
     """ 
     Play the game by initializing the question bank, creating the quiz and asking questions. 
     """
     question_bank = []
-    for question in question_data:
+    questions = choices(question_data, k=max_questions)
+    for question in questions:
         question_text = question["question"]
         question_answer = question["correct_answer"]
         new_question = Question(question_text, question_answer)
@@ -39,4 +41,5 @@ def play_game():
     print(f"Your final score was: {quiz.score}/{quiz.question_number}")
 
 if __name__ == "__main__":
-    play_game()
+    questions = 20
+    play_game(questions)

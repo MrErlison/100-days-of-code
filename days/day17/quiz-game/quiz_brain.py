@@ -27,11 +27,12 @@ class QuizBrain:
         """ 
         Check if the user's answer is correct, update the score and print out a message. 
         """
-        if user_answer.lower() == correct_answer.lower():
+        if user_answer.capitalize() == correct_answer:
             self.score += 1
             print("You got it right!")
         else:
             print("That's wrong.")
-        print(f"The correct answer was: {correct_answer}.")
+            print(f"The correct answer was: {correct_answer}.")
+            
         print(f"Your current score is: {self.score}/{self.question_number}")
         print("\n")
